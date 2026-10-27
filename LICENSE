@@ -1,0 +1,89 @@
+RAILGUN DESKTOP — END-USER LICENSE
+
+Copyright (c) 2024-2026 Railgun Chat. All rights reserved.
+
+In this licence, "Railgun" means Railgun Chat, the owner of the Railgun
+products and services, and any person or company Railgun Chat
+authorises in writing to act on its behalf.
+
+This repository publishes the official, signed installers and update
+files for the Railgun desktop application ("the Software"). The Software
+is proprietary. Its source code is not published here or anywhere else,
+and none of the files in this repository is open-source software.
+
+1. What you may do
+
+   Railgun grants you a personal, non-exclusive, non-transferable,
+   revocable licence to download the official installers from this
+   repository or from railgun.chat, install them on devices you own or
+   control, and use the Software to access Railgun's services, in
+   accordance with the Railgun Terms of Service
+   (https://railgun.chat/terms) and Privacy Policy
+   (https://railgun.chat/privacy). Your use of Railgun's services is
+   governed by those documents.
+
+2. What you may not do
+
+   Except as Railgun expressly permits in writing, you may not:
+
+   a. copy, redistribute, re-host, mirror, sell, rent, lend or sublicense
+      the Software or any file in this repository, or bundle it with
+      anything else;
+   b. modify the Software, or distribute or install a modified,
+      repackaged or re-signed copy of it;
+   c. reverse engineer, decompile or disassemble the Software, or try to
+      extract its source code, except to the extent applicable law
+      expressly permits it despite this restriction;
+   d. remove or alter any copyright, trademark or licence notice, or the
+      code signature, in the Software;
+   e. use the Software to build a competing product, or to train,
+      fine-tune or evaluate any machine learning or artificial
+      intelligence model; or
+   f. use the Software in breach of the Railgun Terms of Service or of any
+      law.
+
+   Linking to this repository's release pages or to railgun.chat, so that
+   others can download the Software themselves, is permitted.
+
+3. Updates
+
+   The Software may check for and download updates from this repository.
+   Updates are part of the Software and are covered by this licence.
+
+4. Privacy
+
+   How the Software and Railgun's services handle your information is
+   described in the Railgun Privacy Policy (https://railgun.chat/privacy).
+
+5. Ownership
+
+   The Software is licensed, not sold. Railgun and its licensors own all
+   rights in it, including copyright, trademarks and trade secrets. Any
+   right not expressly granted here is reserved. The Software includes
+   third-party open-source components that remain under their own
+   licences, which govern those components alone.
+
+6. Ending this licence
+
+   This licence ends automatically if you breach it. When it ends you
+   must stop using the Software and delete every copy of it.
+
+7. No warranty and limitation of liability
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT. TO THE FULLEST EXTENT
+   PERMITTED BY LAW, RAILGUN AND ITS LICENSORS WILL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS
+   OF DATA, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE. Some
+   jurisdictions do not allow these exclusions, so some of them may not
+   apply to you; this licence does not limit rights you have under
+   consumer protection laws that cannot be waived.
+
+8. General
+
+   This licence is governed by the laws of the jurisdiction in which
+   Railgun is established, without regard to its conflict-of-law rules.
+   If any part of it is held unenforceable, the rest remains in effect.
+
+Questions: legal@railgun.chat
